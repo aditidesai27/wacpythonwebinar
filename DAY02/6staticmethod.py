@@ -16,5 +16,5 @@ class Student:
 
 
 
-st = Student("Neeraj", "Sharma", 31)
-print(st.detail())
+# st = Student("Neeraj", "Sharma", 31)
+print(Student.detail())
